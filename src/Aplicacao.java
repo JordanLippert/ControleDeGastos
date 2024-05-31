@@ -14,6 +14,7 @@ public class Aplicacao {
         }
         else {
             System.out.println("ERRO: Forma de pagamento Inválida! ");
+            System.out.print("TESTE")
         }
     }
 
